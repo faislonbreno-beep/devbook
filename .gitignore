@@ -25,3 +25,5 @@ Thumbs.db
 coverage/
 *.local
 *.log
+backend/.env
+frontend/.env
